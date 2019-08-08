@@ -1,0 +1,13 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-9-13 at обнГ2:12:49
+ ********************************************/
+ Machines={"shirtM","shortM","pantM"};
+ Products={"shirt","short","pant"};
+ Resources={"labour","cloth"};
+ capacity=[150,160];
+ RentCost=[200,150,100];
+ product=[<6,{shirtM},[3,4]>
+          <4,{shortM},[2,3]>
+          <7,{pantM},[6,4]>];

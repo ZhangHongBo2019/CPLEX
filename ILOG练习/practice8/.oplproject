@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="&amp;#37197;&amp;#32622; 1">
+			<ref name="practice8.mod" type="model">
+			</ref>
+			<ref name="practice8.ops" type="setting">
+			</ref>
+			<ref name="practice8.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

@@ -1,0 +1,19 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-9-11 at обнГ4:06:58
+ *********************************************/
+Products={"kluski","capellini","fettuccine"};
+Resources={"flour","eggs"};
+nbPeriod=3;
+capacity=[20,40];
+demand=[[10,100,50],
+        [20,200,100],
+        [50,100,100]];
+consump=[[0.5,0.4,0.3],
+         [0.2,0.4,0.6]];
+insideCost=[0.4,0.6,0.1];
+outsideCost=[0.8,0.9,0.4];
+Inventory=[0,0,0];
+InvCost=[0.1,0.2,0.1];
+

@@ -1,0 +1,12 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-9-13 at обнГ5:38:45
+ *********************************************/
+nbPeriods=4;
+Demand=[40,60,75,25];
+RegularCost=400;
+ExtraCost=450;
+capacity=40;
+Inventory=10;
+InventoryCost=20;

@@ -1,0 +1,18 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-4-19 at обнГ8:51:31
+ *********************************************/
+/*Products={"gas","chloride"};
+Component={"nitrogen","hydrogen","chlorine"};
+
+profit=[40,50];
+stock=[50,180,40];
+demand=[[1 3 0],[1 4 1]];*/
+Product={"gas","chlorie"};
+Component={"nitrogen","hydrogen","chlorine"};
+
+profit=#["gas:",40,"chloride":50]#;
+stock=#["nitrogen":50,"hydrogen":180,"chlorine":40]#;
+demand=#["gas":#["nitrogen":1,"hydrogen":3,"chlorine":0]#,
+         "chloride":#["nitrogen":1,"hydrogen":4,"chlorine":1]# ]#;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="&amp;#37197;&amp;#32622; 1">
+			<ref name="&amp;#36135;&amp;#36816;&amp;#38382;&amp;#39064;.mod" type="model">
+			</ref>
+			<ref name="&amp;#36135;&amp;#36816;&amp;#38382;&amp;#39064;.ops" type="setting">
+			</ref>
+			<ref name="&amp;#36135;&amp;#36816;&amp;#38382;&amp;#39064;.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

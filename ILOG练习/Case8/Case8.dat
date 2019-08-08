@@ -1,0 +1,8 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-9-9 at обнГ8:29:55
+ *********************************************/
+Cities={"GARY","CLEY","PITT","FRA","DET","LAN","WIN","STL","FRE","LAF"};
+Products={"bands","coils","plate"};
+capacity=625;

@@ -1,0 +1,19 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Administrator
+ * Creation Date: 2018-9-12 at ионГ10:00:03
+ *********************************************/
+Gasolines={"super","regular","diesel"};
+Oils={"Crude1","Crude2","Crude3"};
+Gas=#[
+      super:<3000,70,10,1>,
+      regular:<2000,60,8,2>,
+      diesel:<1000,50,6,1>
+                         ]#;
+Oil=#[
+      Crude1:<5000,45,12,0.5>,
+      Crude2:<5000,35,6,2>,
+      Crude3:<5000,25,8,3>
+                         ]#;
+Maxproduction=14000;
+ProdCost=4;
